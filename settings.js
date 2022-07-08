@@ -27,7 +27,7 @@ global.premium = ['+923080613785'] //Owner Number info
 global.ownernomer = '+923080613785' //Owner Number <<<
 
 global.ownername = '😎🇵🇰devil king' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+global.botname = ' ☬🇵🇰devil༒king࿐' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
