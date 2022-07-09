@@ -22,9 +22,9 @@ global.APIKeys = {
 global.alivemsg = `My name is 🇵🇰devil king🔥
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+923080613785'] //Owner number in aive msg
-global.premium = ['+923080613785'] //Owner Number info
-global.ownernomer = '+923080613785' //Owner Number <<<
+global.owner = ['+923187028664'] //Owner number in aive msg
+global.premium = ['+923187028664'] //Owner Number info
+global.ownernomer = '+923187028664' //Owner Number <<<
 
 global.ownername = '😎🇵🇰devil king' //Owner Name
 global.botname = ' ☬🇵🇰devil༒king࿐' //Bot Name
@@ -34,8 +34,8 @@ global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = ☬🇵🇰devil༒king࿐' //Bot Pacage Name
+global.author = '😎☬🇵🇰devil༒king࿐❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
